@@ -1,0 +1,17 @@
+{
+    "Notebook": {
+      "Header": false,
+      "Toolbar": true
+    },
+    "Cell": {
+      "cm_config": {
+        "lineNumbers": false
+      }
+    },
+    "load_extensions": {
+      "toc2/main": true,
+      "exercise/main": true,
+      "exercise2/main": true,
+      "python-markdown/main": true
+    }
+}
