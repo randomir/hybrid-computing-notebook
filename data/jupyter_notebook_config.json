@@ -1,0 +1,11 @@
+{
+    "NotebookApp": {
+        "allow_origin": "*",
+        "allow_remote_access": true,
+        "open_browser": false,
+        "port": 8888,
+        "token": "",
+        "password": "",
+        "use_redirect_file": false
+    }
+}
